@@ -1,0 +1,1 @@
+#base "projectile_weapon_laser.txt"

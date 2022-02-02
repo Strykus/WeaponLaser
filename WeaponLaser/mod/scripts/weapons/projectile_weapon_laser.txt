@@ -1,0 +1,7 @@
+WeaponData
+{
+            "grenade_arc_indicator_effect"                    "P_grenade_arc_proto"
+            "grenade_arc_impact_indicator_effect"            "grenade_arc_impact_proto"
+            "grenade_arc_indicator_show_from_hip"            "1"
+
+}

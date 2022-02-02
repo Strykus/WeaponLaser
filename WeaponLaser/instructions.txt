@@ -1,0 +1,14 @@
+[WeaponLaser_by_Avalar v1.0]
+
+Add Laser to almost all Weapons
+
+Want to ask me something? feel free to dm in my discord: Avalar#2742
+
+v1.0 - Release version. 
+- Working as intended, can be applied on non hitscan weapons like Kraber,Wingman Elite, Double take but projectile will be broke
+- You can adjust brightnes of the laser by increasing or decreasing value "projectile_launch_speed"
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Notes: Northstar requires to making this mod work: https://github.com/R2Northstar/Northstar
+     
+Install mod by going to Titanfall 2 root directory >>> "R2Northstar" and drop mod folder named "NoMoreSway" into "mods" folder.
