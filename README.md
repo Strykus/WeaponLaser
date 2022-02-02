@@ -1,2 +1,2 @@
 # WeaponLaser
-Add Weapon Laser to all Hitscan Weapons in Titanfall 2
+Add Weapon Laser to almost all Weapons in Titanfall 2
