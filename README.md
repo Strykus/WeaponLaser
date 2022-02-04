@@ -18,4 +18,5 @@ v2.0 - Color Update
  
  Or when in lobby type command in console: sv_cheats 1; weapon_reparse; reload_mods; sv_cheats 0
  You can bind this command to any button by typing: bind f3 "sv_cheats 1; weapon_reparse; reload_mods; sv_cheats 0"
+ 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
