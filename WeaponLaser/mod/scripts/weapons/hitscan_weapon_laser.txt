@@ -4,8 +4,9 @@ WeaponData
             "projectile_launch_speed"                        "99999999"
             
             //remove comment "//" in front of color that you want(or change name after "first_" that already active) to use, and then save the file and reload the game 
-            //or when in lobby type command in sonsole: sv_cheats 1; weapon_reparse; reload_mods; sv_cheats 0
-
+            //or when in lobby type command in console: sv_cheats 1; weapon_reparse; reload_mods; sv_cheats 0
+            //you can bind this command to any button by typing: bind f3 "sv_cheats 1; weapon_reparse; reload_mods; sv_cheats 0"
+            
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_blue"
             "grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_cyan"
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_golden"
