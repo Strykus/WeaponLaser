@@ -9,8 +9,8 @@ WeaponData
             //values without numbers at the end have size: _path_first_<your color> is 16 _path_<your color> is 32
             //rgb have 5,10,30,40 and 20 is default
 
-            "projectile_launch_speed"                        "200"
-	"bolt_speed"									"60"
+            "projectile_launch_speed"                        "12000"
+	"bolt_speed"									"1"
 	"projectile_gravity_scale"						"0"
 	"bolt_gravity_enabled"							"0"
 	"projectile_damages_owner"						"0"
