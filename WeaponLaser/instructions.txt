@@ -1,4 +1,4 @@
-[WeaponLaser_by_Avalar v2.0]
+[WeaponLaser_by_Avalar v2.2]
 
 Add Laser to almost all Weapons
 
@@ -19,8 +19,11 @@ v2.0
 v2.1
 - Added yellow, white and rgb colors
 - Added sizes options for colors 5,10,20,30,40 _path_first_ is 16 _path_ is 32
+
+v2.2
+- Kraber and Wingman Elite now have Custom Lasers kraber_weapon_laser and wingman_weapon_laser in WeaponLaser>mod>scripts>weapons
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Notes: Northstar requires to making this mod work: https://github.com/R2Northstar/Northstar
      
-Install mod by going to Titanfall 2 root directory >>> "R2Northstar" and drop mod folder named "NoMoreSway" into "mods" folder.
+Install mod by going to Titanfall 2 root directory >>> "R2Northstar" and drop mod folder named "WeaponLaser" into "mods" folder.

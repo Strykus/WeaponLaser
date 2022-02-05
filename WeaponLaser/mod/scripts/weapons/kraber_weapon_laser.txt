@@ -1,0 +1,37 @@
+WeaponData
+{
+
+    
+            //remove comment "//" in front of color that you want(or change name after "first_" that already active) to use, and then save the file and reload the game 
+            //or when in lobby type command in console: sv_cheats 1; weapon_reparse; reload_mods; sv_cheats 0
+            //you can bind this command to any button by typing: bind f3 "sv_cheats 1; weapon_reparse; reload_mods; sv_cheats 0"
+            //change color size after color name: 5,10,20,30,40  example: CH_grenade_arc_proto_path_first_golden_20
+            //values without numbers at the end have size: _path_first_<your color> is 16 _path_<your color> is 32
+            //rgb have 5,10,30,40 and 20 is default
+
+            "projectile_launch_speed"                        "100"
+	"bolt_speed"									"100"
+	"projectile_gravity_scale"						"0"
+	"bolt_gravity_enabled"							"0"
+	"projectile_damages_owner"						"0"
+
+
+
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_blue"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_cyan"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_golden"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_green"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_magenta"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_orange"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_purple"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_pink"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_red"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_white"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_yellow"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first"
+            "grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_rgb"
+
+            "grenade_arc_impact_indicator_effect"            "0"
+            "grenade_arc_indicator_show_from_hip"            "1"
+
+}

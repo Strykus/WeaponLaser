@@ -1,0 +1,1 @@
+#base "wingman_weapon_laser.txt"
