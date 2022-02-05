@@ -15,6 +15,10 @@ v2.0
  active) to use, and then save the file and reload the game.
  Or when in lobby type command in console: sv_cheats 1; weapon_reparse; reload_mods; sv_cheats 0
  You can bind this command to any button by typing: bind f3 "sv_cheats 1; weapon_reparse; reload_mods; sv_cheats 0"
+
+v2.1
+- Added yellow, white and rgb colors
+- Added sizes options for colors 5,10,20,30,40 _path_first_ is 16 _path_ is 32
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Notes: Northstar requires to making this mod work: https://github.com/R2Northstar/Northstar

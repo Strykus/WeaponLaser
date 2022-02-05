@@ -1,6 +1,6 @@
 {
 	"Name": "WeaponLaser_by_Avalar",
-	"Description": "Add Laser wit several color variations to almost all pilot Weapons can be edited in: mod>scripts>weapons hitscan_weapon_laser.txt/projectile_weapon_laser.txt",
-	"Version": "2.0",
+	"Description": "Add Laser wit several color and size variations to almost all pilot Weapons can be edited in: mod>scripts>weapons hitscan_weapon_laser.txt/projectile_weapon_laser.txt",
+	"Version": "2.1",
 	"LoadPriority": 0
 }
