@@ -13,6 +13,10 @@ v2.0 - Color Update
 - Added More Color variations : blue; cyan; golden; green; magenta; orange; purple; pink; red.
 - Can be changed it "hitscan_weapon_laser.txt" and "projectile_weapon_laser.txt"
 
+v2.1
+- Added yellow, white and rgb colors
+- Added sizes options for colors 5,10,20,30,40 _path_first_ is 16 _path_ is 32
+
  Remove comment "//" inside file "hitscan_weapon_laser.txt or projectile_weapon_laser.txt" in front of color that you want(or change name after "first_" that already
  active) to use, and then save the file and reload the game.
  ---------------------------------------------------------------------------------------------------------------------
