@@ -20,6 +20,9 @@ v2.1
 v2.2
 - Kraber and Wingman Elite now have Custom Lasers kraber_weapon_laser and wingman_weapon_laser in WeaponLaser>mod>scripts>weapons
 
+v2.2.1
+- Made laser for Kraber and Wingman Elite better
+
  Remove comment "//" inside file "hitscan_weapon_laser.txt or projectile_weapon_laser.txt" in front of color that you want(or change name after "first_" that already
  active) to use, and then save the file and reload the game.
  ---------------------------------------------------------------------------------------------------------------------
