@@ -12,7 +12,7 @@ WeaponData
             "projectile_launch_speed"                        "10000"
 	"bolt_speed"									"1"
 
-            //change Kraber and Doubletake color and size below
+            //change Kraber and Doubletake laser color and size below
 
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_blue"
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_cyan"

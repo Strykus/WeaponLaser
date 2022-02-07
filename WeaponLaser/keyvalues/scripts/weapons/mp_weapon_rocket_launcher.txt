@@ -1,0 +1,1 @@
+#base "archer_weapon_laser.txt"

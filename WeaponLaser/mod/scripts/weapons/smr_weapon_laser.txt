@@ -12,7 +12,7 @@ WeaponData
             "projectile_launch_speed"                        "3000"
 	"projectile_gravity_scale"						"0"
 
-            //change SMR color and size below
+            //change SMR laser color and size below
 
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_blue"
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_cyan"

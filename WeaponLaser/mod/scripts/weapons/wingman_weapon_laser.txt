@@ -13,7 +13,7 @@ WeaponData
 	"bolt_speed"									"1"
 
 
-            //change Wingman Elite color and size below
+            //change Wingman Elite laser color and size below
 
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_blue"
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_cyan"
