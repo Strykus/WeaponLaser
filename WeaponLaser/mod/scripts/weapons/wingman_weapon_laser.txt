@@ -11,9 +11,7 @@ WeaponData
 
             "projectile_launch_speed"                        "12000"
 	"bolt_speed"									"1"
-	"projectile_gravity_scale"						"0"
-	"bolt_gravity_enabled"							"0"
-	"projectile_damages_owner"						"0"
+
 
 
 
