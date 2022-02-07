@@ -11,6 +11,7 @@ WeaponData
             //values without numbers at the end have size: _path_first_<your color> is 16 _path_<your color> is 32
             //rgb have 5,10,30,40 and 20 is default
    
+            //change SMG,Assault,Sniper,Shotgun weapon type color and size below
     
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_blue"
             "grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_cyan"

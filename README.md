@@ -23,6 +23,9 @@ v2.2
 v2.2.1
 - Made laser for Kraber and Wingman Elite better
 
+v2.2.2
+- Laser was added to Mastiff Mozambique(bad visual compare to other wapons) and Doubletake
+
  Remove comment "//" inside file "hitscan_weapon_laser.txt or projectile_weapon_laser.txt" in front of color that you want(or change name after "first_" that already
  active) to use, and then save the file and reload the game.
  ---------------------------------------------------------------------------------------------------------------------
