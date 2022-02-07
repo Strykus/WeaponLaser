@@ -7,7 +7,7 @@ Want to ask me something? feel free to dm in my discord: Avalar#2742
 
 # How to use!
 
- Remove comment "//" inside file "hitscan_weapon_laser.txt or projectile_weapon_laser.txt" in front of color that you want(or change name after "first_" that already
+ Remove comment "//" inside file "hitscan_weapon_laser.txt, projectile_weapon_laser.txt or others" in front of color that you want(or change name after "first_" that already
  active) to use, and then save the file and reload the game.
   Change color size after color name: 5,10,20,30,40  example: CH_grenade_arc_proto_path_first_golden_20
  Values without numbers at the end have size: _path_first_<your color> is 16 _path_<your color> is 32
