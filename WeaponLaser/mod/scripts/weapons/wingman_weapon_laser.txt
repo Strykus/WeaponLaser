@@ -5,9 +5,9 @@ WeaponData
             //remove comment "//" in front of color that you want(or change name after "first_" that already active) to use, and then save the file and reload the game 
             //or when in lobby type command in console: sv_cheats 1; weapon_reparse; reload_mods; sv_cheats 0
             //you can bind this command to any button by typing: bind f3 "sv_cheats 1; weapon_reparse; reload_mods; sv_cheats 0"
-            //change color size after color name: 5,10,20,30,40  example: CH_grenade_arc_proto_path_first_golden_20
+            //change color size after color name: 5,10,20,30,40,50,60,70,80,90,100  example: CH_grenade_arc_proto_path_first_golden_20
             //values without numbers at the end have size: _path_first_<your color> is 16 _path_<your color> is 32
-            //rgb have 5,10,30,40 and 20 is default
+            //rgb have 5,10,30,40,50,60,70,80,90,100 and 20 is default
 
             "projectile_launch_speed"                        "12000"
 	"bolt_speed"									"1"

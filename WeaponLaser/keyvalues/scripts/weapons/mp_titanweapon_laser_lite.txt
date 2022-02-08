@@ -1,0 +1,1 @@
+#base "hitscan_titans_weapon_laser.txt"

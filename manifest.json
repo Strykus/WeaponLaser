@@ -1,0 +1,7 @@
+{
+  "name": "WeaponLaser",
+  "version_number": "2.3.0",
+  "website_url": "https://github.com/Strykus/WeaponLaser",
+  "description": "Add Laser wit several color and size variations to almost all pilot Weapons, can be edited in: mod>scripts>weapons hitscan_weapon_laser.txt/projectile_weapon_laser.txt",
+  "dependencies": []
+}
