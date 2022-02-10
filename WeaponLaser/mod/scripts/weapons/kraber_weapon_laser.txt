@@ -14,6 +14,7 @@ WeaponData
 
             //change Kraber and Doubletake laser color and size below
 
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_black_10"
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_blue"
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_cyan"
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_golden"

@@ -138,3 +138,6 @@ v2.3.0
 - Added laser for Titan weapons: `XO-16 for Monarch, Predator Cannon for Legion, Laser Shot for Ion, Energy Shot for Monarch`
 - Added more size variation `50, 60, 70, 80, 90, 100`
 ---------------------------------------
+v2.3.1
+- Black color for laser was added with sizes: `5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100`
+---------------------------------------

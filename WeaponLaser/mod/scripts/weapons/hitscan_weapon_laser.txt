@@ -12,7 +12,8 @@ WeaponData
             //rgb have 5,10,30,40 and 20 is default
    
             //change SMG,Assault,Sniper,Shotgun weapon types laser color and size below
-    
+
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_black_10"
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_blue"
             "grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_cyan"
             //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_golden"

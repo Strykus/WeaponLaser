@@ -16,24 +16,34 @@ Want to ask me something? feel free to dm in my discord: Avalar#2742
 
 v1.0 - Release version. 
 - Working as intended, can be applied on non hitscan weapons like Kraber,Wingman Elite, Double take but projectile will be broke
-
+---------------------------------------
 v2.0
 - Added More Color variations : blue; cyan; golden; green; magenta; orange; purple; pink; red.
 - Can be changed it "hitscan_weapon_laser.txt" and "projectile_weapon_laser.txt"
-
+---------------------------------------
 
 v2.1
 - Added yellow, white and rgb colors
 - Added sizes options for colors 5,10,20,30,40 _path_first_ is 16 _path_ is 32
 
-v2.2
+v2.2---------------------------------------
 - Kraber and Wingman Elite now have Custom Lasers kraber_weapon_laser and wingman_weapon_laser in WeaponLaser>mod>scripts>weapons
-
+---------------------------------------
 v2.2.1
 - Made laser for Kraber and Wingman Elite better
-
+---------------------------------------
 v2.2.2
 - Laser was added to Mastiff Mozambique(bad visual compare to other wapons) Thunderbolt, Archer, Softball, MGL and Doubletake
+---------------------------------------
+v2.3.0
+- Laser was remover fot `Thunderbolt` due to crashes
+- Added laser sizes for light blue `CH_grenade_arc_proto_path_first`
+- Added laser for Titan weapons: `XO-16 for Monarch, Predator Cannon for Legion, Laser Shot for Ion, Energy Shot for Monarch`
+- Added more size variation `50, 60, 70, 80, 90, 100`
+---------------------------------------
+v2.3.1
+- Black color for laser was added with sizes: `5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100`
+---------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Notes: Northstar requires to making this mod work: https://github.com/R2Northstar/Northstar
