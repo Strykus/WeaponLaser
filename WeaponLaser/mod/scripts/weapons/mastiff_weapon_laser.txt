@@ -16,20 +16,21 @@ WeaponData
 
             //change Mastiff and Mozambique laser color and size below
 
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_black_10"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_blue"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_cyan"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_golden_40"
-            "grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_green_10"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_magenta"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_orange"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_purple"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_pink"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_red"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_white"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_yellow"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first"
-            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_rgb"
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_black_10" //BLACK
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_blue" //BLUE
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_cyan" //CYAN
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_golden_40" //GOLDEN
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_green_10" //GREEN
+            "grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_iniquity" //INIQUITY
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_magenta" //MAGENTA
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_orange" //ORANGE
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_purple" //PURPLE
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_pink" //PINK
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_red" //RED
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_white" //WHITE
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_yellow" //YELLOW
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first" //LIGHTBLUE
+            //"grenade_arc_indicator_effect"                    "CH_grenade_arc_proto_path_first_rgb" //RGB
 
             "grenade_arc_impact_indicator_effect"            "0"
             "grenade_arc_indicator_show_from_hip"            "1"
